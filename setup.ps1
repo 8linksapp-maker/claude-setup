@@ -2,7 +2,7 @@
 # ============================================
 # Setup Claude Code - Windows
 # ============================================
-
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned -Force
 Write-Host "Iniciando setup do ambiente..." -ForegroundColor Cyan
 
 # 1. Git
