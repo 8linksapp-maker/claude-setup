@@ -19,7 +19,7 @@ winget install GitHub.cli --accept-package-agreements --accept-source-agreements
 
 # 4. Cursor
 Write-Host "`nInstalando Cursor..." -ForegroundColor Yellow
-winget install Cursor.Cursor --accept-package-agreements --accept-source-agreements
+winget install Anysphere.Cursor --accept-package-agreements --accept-source-agreements
 
 # 5. Bun
 Write-Host "`nInstalando Bun..." -ForegroundColor Yellow
